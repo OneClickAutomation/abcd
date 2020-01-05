@@ -7,4 +7,10 @@ public class SecondClass extends FirstClass{
 		super.abc(5, 6);
 	}
 	
+	public void abcd()
+	{
+		
+		System.out.println("some printing");
+	}
+	
 }
